@@ -5,10 +5,6 @@ description = "Global override of color control"
 repository = "https://github.com/rust-cli/anstyle"
 categories = ["command-line-interface"]
 keywords = ["cli", "color", "no-std", "terminal", "ansi"]
-license.workspace = true
-edition.workspace = true
-rust-version.workspace = true
-include.workspace = true
 
 [package.metadata.release]
 pre-release-replacements = [
